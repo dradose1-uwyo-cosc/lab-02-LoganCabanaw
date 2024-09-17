@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Logan Cabanaw
+## Lab 02
+## 09/16/2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+Codespace will not save work? 
